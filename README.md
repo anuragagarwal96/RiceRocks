@@ -17,4 +17,4 @@ A take on the classic game [Asteroids](https://en.wikipedia.org/wiki/Asteroids_(
 
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
-[![Developers Tag](https://img.shields.io/badge/Developer-anuragagarwal97-black.svg)](https://github.com/anuragagarwal97)
+[![Developers Tag](https://img.shields.io/badge/Developer-anuragagarwal96-black.svg)](https://github.com/anuragagarwal96)
